@@ -7,7 +7,7 @@ def get_todos(filepath=FILEPATH):
     (strings). It creates an empty file if it is not present.
     """
     if not os.path.exists(FILEPATH):
-        with open(FILEPATH, 'w') as file.local:
+        with open(FILEPATH, 'w') as file_local:
             pass
     with open(filepath, 'r') as file_local:
         todos_local = file_local.readlines()

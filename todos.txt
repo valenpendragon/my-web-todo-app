@@ -1,3 +1,4 @@
 Sort all items in Master/Inbox to their appropriate buckets in Master
 Create an NPC
 Create another 3 Line Item
+Install pysimplegui in other_materials
